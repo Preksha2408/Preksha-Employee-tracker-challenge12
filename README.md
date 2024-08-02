@@ -116,7 +116,7 @@ The Employee Tracker is a command-line application built using Node.js and Postg
 
 ## Demo 
 
-* [Click here](./assets/Challenge12-Employee-Tracker.mp4)
+* [Click here](./assets/images/Employee-trackerchallenge12.gif)
 
 
 ## Questions 
